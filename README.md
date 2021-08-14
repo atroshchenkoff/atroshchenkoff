@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fedor;
-- 📫 Telegram: @atroshchenkoff;
+- 📫 My Telegram: @atroshchenkoff;
 
 <!---
 atroshchenkoff/atroshchenkoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
