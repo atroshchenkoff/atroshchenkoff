@@ -17,11 +17,11 @@
   <a href='#'><img src='/img/icons8-react-native-48.png'></img></a>
   <a href='#'><img src='/img/icons8-redux-48.png'></img></a>
   <a href='#'><img src='/img/icons8-node-js-48.png'></img></a>
-  <a href='#'><img src='/img/expressjs-icon.png'></img></a>
+  <a href='#'><img src='/img/expressjs-icon.png' width='48px'></img></a>
   <a href='#'><img src='/img/icons8-postgresql-48.png'></img></a>
   <a href='#'><img src='/img/icons8-git-48.png'></img></a>
   <a href='#'><img src='/img/icons8-github-48.png'></img></a>
-  <a href='#'><img src='/img/visual-studio-code.png'></img></a>
+  <a href='#'><img src='/img/visual-studio-code.png' width='48px' ></img></a>
   
   </br>
   </br>
