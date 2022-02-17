@@ -33,8 +33,8 @@
 </div>
 
 
-<h2 align="center">🤝 Let's get connected:</h2>
-<div>
+<h2 align='center'>🤝 Let's get connected:</h2>
+<div align='center'>
   <a href='https://t.me/atroshchenkoff' target='_blank' ><img src='/img/icons8-telegram-app-48.png'></img></a>
   <a href='mailto:fedor.atroshchenko.job@gmail.com'><img src='/img/icons8-gmail-48.png'></img></a>
 </div>
