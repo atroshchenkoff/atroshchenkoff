@@ -33,7 +33,7 @@
 </div>
 
 
-<h2>Let's get connected 🤝</h2>
+<h2>🤝 Let's get connected</h2>
 <div>
   <a href='t.me/atroshchenkoff'><img src='/img/icons8-telegram-app-48.png'></img></a>
   <a href='mailto:fedor.atroshchenko.job@gmail.com'><img src='/img/icons8-gmail-48.png'></img></a>
