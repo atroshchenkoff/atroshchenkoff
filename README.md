@@ -26,10 +26,10 @@
   </br>
   </br>
   
-  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap, Material-UI</span></br>
-  <span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
-  <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
-  <span>**Other:** Git, GitHub, VS Code</span></br>
+  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap, Material-UI;</span></br>
+  <span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars;</span></br>
+  <span>**DB:** PostgreSQL, Sequelize ORM;</span></br>
+  <span>**Other:** Git, GitHub, VS Code.</span></br>
 </div>
 
 
