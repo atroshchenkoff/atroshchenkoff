@@ -3,7 +3,7 @@
   alt='It looks like something broke... There should be a nice picture for greetings :(' 
   />
 
-<div fontSize='30px'>
+<div font-size='30px'>
 👨🏻‍💻 FullStack JS Developer<br>
 👾 Currently working on PERN Stack<br>
 🚀 Interested in WebDev, travel and photography<br>
